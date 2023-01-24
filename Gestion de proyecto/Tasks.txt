@@ -1,0 +1,7 @@
+Validar identidad de hojas con marcas de agua (En PDF).
+Crear edición alternativa (En rtf).
+Convertir el archivo rtf a txt.
+Descargar PPT's .
+Armar Esquema e importarlo.
+Crear primera version TEI del texto. 
+Crear prototipo de sitio web.
