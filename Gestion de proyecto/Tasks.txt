@@ -5,3 +5,6 @@ Descargar PPT's .
 Armar Esquema e importarlo.
 Crear primera version TEI del texto. 
 Crear prototipo de sitio web.
+Cargar el prólogo en ficha separada
+Persname
+Unir texto e imagen
