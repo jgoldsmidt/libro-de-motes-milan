@@ -1,0 +1,8 @@
+Fichas (no) faltantes
+¿Por qué el uso de los "/" al ingresar el título?. Ej: /B/
+Verificar datos de publicación del TEI
+¿Cada mote se separaría por el tipo de letra y cada estrofa en números romanos?
+¿type="redondilla" en vez de "cuarteto"?
+
+
+

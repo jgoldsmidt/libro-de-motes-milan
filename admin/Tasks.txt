@@ -1,0 +1,12 @@
+Validar identidad de hojas con marcas de agua (En PDF).
+Crear edición alternativa (En rtf).
+Convertir el archivo rtf a txt.
+Descargar PPT's .
+Armar Esquema e importarlo.
+Crear primera version TEI del texto. 
+Crear prototipo de sitio web.
+Cargar el prólogo en ficha separada
+Persname
+Unir texto e imagen
+MoteB4 linea 41? metrica?
+MoteB7 , no siempre se respeta sìlaba en verso de la misma estrofa

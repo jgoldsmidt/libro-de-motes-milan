@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+<fileDesc>
+			<titleStmt>
+ 				<title> Libro de motes de damas y cavalleros. Intitulado El juego de mandar
+compuesto por don Luis Milán. Dirigido a las damas</title>
+				<author>Luis de Milán</author>
+                <editor>Gimena del Rio Riande</editor>
+				<respStmt>
+					<name>Julieta Goldsmidt</name>
+					<resp>encoding</resp>
+                  
+				</respStmt>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>HD LAB (CAICYT, CONICET)</publisher>
+ 			</publicationStmt>
+ 			<sourceDesc>
+				<bibl>
+                <title> Libro de motes de damas y cavalleros. Intitulado El juego de mandar
+compuesto por don Luis Milán.Dirigido a las damas</title></bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+		
+	</teiHeader>
+	<text>
+		<body>
+			<head>
+				<title>/Biii/</title>
+			</head>
+			<lg n="1" type="poema" corresp="dama" met="3x7" rhyme="abb" >
+				<l n="1">Levantaos a  bailar,</l> 
+				<l n="2">que con tal disposición </l>
+				<l n="3">bien podéis bailar sin son.</l>
+			</lg>
+
+
+
+			<lg n="2" type="poema" corresp="caballero" met="3x7" rhyme="abb" >
+				<l n="1">No parescería loco</l>
+				<l n="2">en bailar sin son por vos</l>
+				<l n="3">si bailásemos los dos.</l>
+			</lg> 
+
+		</body>
+	</text>
+</TEI>

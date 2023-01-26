@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+<fileDesc>
+			<titleStmt>
+ 				<title> Libro de motes de damas y cavalleros. Intitulado El juego de mandar
+compuesto por don Luis Milán. Dirigido a las damas</title>
+				<author>Luis de Milán</author>
+                <editor>Gimena del Rio Riande</editor>
+				<respStmt>
+					<name>Julieta Goldsmidt</name>
+					<resp>encoding</resp>
+                  
+				</respStmt>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>HD LAB (CAICYT, CONICET)</publisher>
+ 			</publicationStmt>
+ 			<sourceDesc>
+				<bibl>
+                <title> Libro de motes de damas y cavalleros. Intitulado El juego de mandar
+compuesto por don Luis Milán.Dirigido a las damas</title></bibl>
+ 			</sourceDesc>
+ 		</fileDesc>
+		
+	</teiHeader>
+	<text>
+		<body>
+			<head>
+			<title>/D/</title>
+			</head>
+			<lg n="1" type="poema" corresp="dama" met="3x8" rhyme="abb" >
+				<l n="1">Y’os mando que toquéis palmas,  </l>
+				<l n="2">pues yo sé que poco a poco,</l> 
+				<l n="3">vos las tocaréis de loco.
+</l>
+			</lg>
+
+			<lg n="2" type="poema" corresp="caballero" met="3x8" rhyme="abba" >
+				<l n="1">Yo lo haré como mandáis  </l>
+				<l n="2">que ya ha mucho que las toco </l>
+				<l n="3">que por vos he buelto loco. </l>
+			</lg> 
+			
+
+
+
+
+
+ 
+
+		</body>
+	</text>
+</TEI>
+
+
+
+
+
+
+ 
+
+
+

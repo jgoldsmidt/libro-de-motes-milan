@@ -1,0 +1,32 @@
+{
+  "name": "digital-publishing-with-minimal-computing-project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "digital-publishing-with-minimal-computing-project",
+  "author": "raffazizzi",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "deploy": "gatsby build --prefix-paths",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.23.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/icons-material": "^5.10.6",
+    "@mui/material": "^5.10.6",
+    "gatsby-plugin-material-ui": "^4.1.0",
+    "gatsby-source-filesystem": "^4.23.0",
+    "gatsby-theme-ceteicean": "^3.2.0"
+  }
+}
